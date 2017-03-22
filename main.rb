@@ -1,0 +1,7 @@
+include_recipe "./recipes/ubuntu"
+#include_recipe "./recipes/vim"
+include_recipe "./recipes/mysql"
+include_recipe "./recipes/redis"
+include_recipe "./recipes/php"
+include_recipe "./recipes/node"
+include_recipe "./recipes/nginx"
